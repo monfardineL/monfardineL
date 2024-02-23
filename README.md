@@ -44,6 +44,11 @@ How do people get so creative building these profiles?
 #### I've once made a presentation about AWS CDK (in Portuguese). You can watch it here:
 
 [![AWS CDK](http://img.youtube.com/vi/ByJVJFHj1l4/0.jpg)](http://www.youtube.com/watch?v=ByJVJFHj1l4)
+
+Or here:  
+
+[![AWS CDK](http://img.youtube.com/vi/V8K4LJtesiM/0.jpg)](http://www.youtube.com/watch?v=V8K4LJtesiM)
+
 <!--
 **monfardineL/monfardineL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
